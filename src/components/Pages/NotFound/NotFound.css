@@ -1,0 +1,6 @@
+.not-found{
+    background-image: url(./bannerbackground.png);
+    background-size: cover;
+    width: 100vw;
+    height: 30vh;
+}

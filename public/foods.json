@@ -1,0 +1,164 @@
+[
+    {
+        "section": "breakfast",
+        "id": "001",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/breakfast/breakfast1.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "breakfast",
+        "id": "002",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/breakfast/breakfast2.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "breakfast",
+        "id": "003",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/breakfast/breakfast3.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "breakfast",
+        "id": "004",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/breakfast/breakfast4.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "breakfast",
+        "id": "005",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/breakfast/breakfast5.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "breakfast",
+        "id": "006",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/breakfast/breakfast6.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "dinner",
+        "id": "007",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/dinner/dinner1.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "dinner",
+        "id": "008",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/dinner/dinner2.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "dinner",
+        "id": "009",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/dinner/dinner3.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "dinner",
+        "id": "010",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/dinner/dinner4.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "dinner",
+        "id": "011",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/dinner/dinner5.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "dinner",
+        "id": "012",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/dinner/dinner6.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "lunch",
+        "id": "013",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/lunch/lunch1.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "lunch",
+        "id": "014",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/lunch/lunch2.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "lunch",
+        "id": "015",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/lunch/lunch3.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "lunch",
+        "id": "016",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/lunch/lunch4.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "lunch",
+        "id": "017",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/lunch/lunch5.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "section": "lunch",
+        "id": "018",
+        "name": "Bagel Cream and Cheese",
+        "image": "/photos/lunch/lunch6.png",
+        "price": 40,
+        "shortDetails": " Lorem ipsum is a placeholder text ",
+        "details": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    }
+]

@@ -1,0 +1,21 @@
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+   border: 0 !important;
+   
+}.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border: 0 !important;
+    color: red !important;
+    font-weight: bold;
+    border-bottom: 3px solid red !important;
+}.nav-tabs {
+    border: 0 !important;
+    margin-bottom: 2.5rem !important;
+   justify-content: center;
+   cursor: pointer;
+}
+.nav-tabs .nav-link{
+     border: 0 !important;
+     color: black !important;
+}
+.cards:hover{
+  box-shadow: 0 0 50px #ccc;
+}

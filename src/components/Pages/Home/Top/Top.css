@@ -1,0 +1,17 @@
+.top{
+    background-image: url(./bannerbackground.png);
+    background-size: cover;
+    width: 100vw;
+    height: 70vh;
+}
+.input{
+    margin-right: -2rem !important;
+}
+.button{
+    background-color: #F91944 !important;
+}
+@media (max-width: 576px) {
+    .top{
+     height: 40vh;
+}
+}
